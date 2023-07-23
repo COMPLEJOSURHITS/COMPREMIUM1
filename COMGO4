@@ -1,0 +1,2224 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
+http://shortgod.com/canaldisponible.mp4
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg",Cine 2020
+http://pe.shortgod.com/pon/tv1.php?id=857
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg",Cine Accion
+http://pe.shortgod.com/pon/tv1.php?id=699
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg",Cine Accion Sagas
+http://pe.shortgod.com/pon/tv1.php?id=700
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg",Cine Comedia 1
+http://pe.shortgod.com/pon/tv1.php?id=695
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg",Cine Comedia 2
+http://pe.shortgod.com/pon/tv1.php?id=696
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg",Cine Ficcion/Fantasia Sagas
+http://pe.shortgod.com/pon/tv1.php?id=711
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png",A3Cine
+http://pe.shortgod.com/pon/tv1.php?id=945
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png",A3Series
+http://pe.shortgod.com/pon/tv1.php?id=444
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png",ADN 40
+http://pe.shortgod.com/pon/tv1.php?id=447
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png",A&E
+http://pe.shortgod.com/pon/tv1.php?id=1
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png",A&E HD
+http://pe.shortgod.com/pon/tv1.php?id=474
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png",Afizzionados
+http://pe.shortgod.com/pon/tv1.php?id=939
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png",Afizzionados HD
+http://pe.shortgod.com/pon/tv1.php?id=878
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png",Alf 24/7
+http://pe.shortgod.com/pon/tv1.php?id=426
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png",AMC
+http://pe.shortgod.com/pon/tv1.php?id=183
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png",AMC (ES)
+http://pe.shortgod.com/pon/tv1.php?id=981
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png",AMC HD
+http://pe.shortgod.com/pon/tv1.php?id=475
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png",America
+http://pe.shortgod.com/pon/tv1.php?id=780
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet
+http://pe.shortgod.com/pon/tv1.php?id=3
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet HD
+http://pe.shortgod.com/pon/tv1.php?id=633
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png",Animaniacs 24/7
+http://pe.shortgod.com/pon/tv1.php?id=677
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png",Antena 3
+http://pe.shortgod.com/pon/tv1.php?id=298
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png",A+
+http://pe.shortgod.com/pon/tv1.php?id=406
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png",AXN
+http://pe.shortgod.com/pon/tv1.php?id=146
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png",AXN HD
+http://pe.shortgod.com/pon/tv1.php?id=476
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png",AXN HD (ES)
+http://pe.shortgod.com/pon/tv1.php?id=713
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png",AXN WHITE HD (ES)
+http://pe.shortgod.com/pon/tv1.php?id=714
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png",AyM Sports
+http://pe.shortgod.com/pon/tv1.php?id=148
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png",Az Clic
+http://pe.shortgod.com/pon/tv1.php?id=165
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png",Az CorazÃ³n
+http://pe.shortgod.com/pon/tv1.php?id=166
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png",Az CorazÃ³n HD
+http://pe.shortgod.com/pon/tv1.php?id=834
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca Uno
+http://pe.shortgod.com/pon/tv1.php?id=4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca Uno HD
+http://pe.shortgod.com/pon/tv1.php?id=4/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca Uno HD
+http://pe.shortgod.com/pon/tv1.php?id=634
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7
+http://pe.shortgod.com/pon/tv1.php?id=5
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7 HD
+http://pe.shortgod.com/pon/tv1.php?id=5/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7 HD
+http://pe.shortgod.com/pon/tv1.php?id=635
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png",Baby TV
+http://pe.shortgod.com/pon/tv1.php?id=7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax
+http://pe.shortgod.com/pon/tv1.php?id=8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax HD
+http://pe.shortgod.com/pon/tv1.php?id=833
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png",BBC HD
+http://pe.shortgod.com/pon/tv1.php?id=931
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png",BeinSports HD
+http://pe.shortgod.com/pon/tv1.php?id=9
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png",BeinSports Ã‘ HD
+http://pe.shortgod.com/pon/tv1.php?id=376
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png",BitMe
+http://pe.shortgod.com/pon/tv1.php?id=946
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png",Bob Esponja 24/7
+http://pe.shortgod.com/pon/tv1.php?id=518
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png",Breaking Bad 24/7
+http://pe.shortgod.com/pon/tv1.php?id=846
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png",Caballeros del Zodiaco 24/7
+http://pe.shortgod.com/pon/tv1.php?id=427
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png",Canal 2 Televicentro
+http://pe.shortgod.com/pon/tv1.php?id=211
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5
+http://pe.shortgod.com/pon/tv1.php?id=14
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5 HD
+http://pe.shortgod.com/pon/tv1.php?id=941
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png",El Canal Del Futbol
+http://pe.shortgod.com/pon/tv1.php?id=892
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/candy.png",Candy 24/7
+http://pe.shortgod.com/pon/tv1.php?id=808
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png",Cantinflas 24/7
+http://pe.shortgod.com/pon/tv1.php?id=428
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png",Caracol
+http://pe.shortgod.com/pon/tv1.php?id=391
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png",Caracol Internacional
+http://pe.shortgod.com/pon/tv1.php?id=290
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png",Cartoonito (Boomerang)
+http://pe.shortgod.com/pon/tv1.php?id=11
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png",Cartoonito (Boomerang) HD
+http://pe.shortgod.com/pon/tv1.php?id=824
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network
+http://pe.shortgod.com/pon/tv1.php?id=17
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network HD
+http://pe.shortgod.com/pon/tv1.php?id=637
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png",Caso Cerrado 24/7
+http://pe.shortgod.com/pon/tv1.php?id=907
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png",CDF Premium
+http://pe.shortgod.com/pon/tv1.php?id=318
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png",CDF Premium HD
+http://pe.shortgod.com/pon/tv1.php?id=725
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png",CDO Premium
+http://pe.shortgod.com/pon/tv1.php?id=401
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png",Celebrity Deathmatch (EN) 24/7
+http://pe.shortgod.com/pon/tv1.php?id=985
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png",Chapulin Colorado 24/7
+http://pe.shortgod.com/pon/tv1.php?id=418
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg",Chespirito 24/7
+http://pe.shortgod.com/pon/tv1.php?id=417
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png",CHV Chilevision
+http://pe.shortgod.com/pon/tv1.php?id=198
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Accion 
+http://pe.shortgod.com/pon/tv1.php?id=990
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Accion 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=1022
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Accion 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=706
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Accion Sagas HD
+http://pe.shortgod.com/pon/tv1.php?id=707
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Anime HD
+http://pe.shortgod.com/pon/tv1.php?id=1006
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Aventura 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=1007
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Belico HD
+http://pe.shortgod.com/pon/tv1.php?id=1009
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Clasico  HD
+http://pe.shortgod.com/pon/tv1.php?id=1010
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Clasicos Mexicanos HD
+http://pe.shortgod.com/pon/tv1.php?id=1011
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Comedia 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=914
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Comedia 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=915
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Crimen HD
+http://pe.shortgod.com/pon/tv1.php?id=1013
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine DC Comics HD
+http://pe.shortgod.com/pon/tv1.php?id=1018
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Disney Animadas HD
+http://pe.shortgod.com/pon/tv1.php?id=1005
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Disney HD
+http://pe.shortgod.com/pon/tv1.php?id=1004
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Ficcion/Fantasia
+http://pe.shortgod.com/pon/tv1.php?id=709
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Ficcion/Fantasia 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=712
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Ficcion/Fantasia 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=710
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Infantil
+http://pe.shortgod.com/pon/tv1.php?id=687
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Infantil 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=702
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Infantil 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=1024
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Infantil Sagas
+http://pe.shortgod.com/pon/tv1.php?id=694
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Infantil Sagas HD
+http://pe.shortgod.com/pon/tv1.php?id=703
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Marvel
+http://pe.shortgod.com/pon/tv1.php?id=697
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Marvel HD
+http://pe.shortgod.com/pon/tv1.php?id=701
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Musicales HD
+http://pe.shortgod.com/pon/tv1.php?id=1015
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Parodias HD
+http://pe.shortgod.com/pon/tv1.php?id=1016
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Religion HD
+http://pe.shortgod.com/pon/tv1.php?id=1017
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Romance
+http://pe.shortgod.com/pon/tv1.php?id=689
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Romance 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=705
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Romance 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=1023
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Suspenso 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=912
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Thriller HD
+http://pe.shortgod.com/pon/tv1.php?id=1002
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Western HD
+http://pe.shortgod.com/pon/tv1.php?id=1003
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Zombis
+http://pe.shortgod.com/pon/tv1.php?id=688
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Cine Zombis HD
+http://pe.shortgod.com/pon/tv1.php?id=917
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Conciertos HD
+http://pe.shortgod.com/pon/tv1.php?id=1012
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png",Series Comedia 24/7
+http://pe.shortgod.com/pon/tv1.php?id=918
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal
+http://pe.shortgod.com/pon/tv1.php?id=18
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal HD
+http://pe.shortgod.com/pon/tv1.php?id=18/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal HD
+http://pe.shortgod.com/pon/tv1.php?id=479
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal Sur
+http://pe.shortgod.com/pon/tv1.php?id=738
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png",Cine Latino
+http://pe.shortgod.com/pon/tv1.php?id=295
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax
+http://pe.shortgod.com/pon/tv1.php?id=20
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax HD
+http://pe.shortgod.com/pon/tv1.php?id=638
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax Sur
+http://pe.shortgod.com/pon/tv1.php?id=739
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png",Claro Sports
+http://pe.shortgod.com/pon/tv1.php?id=328
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png",CNN en EspaÃ±ol
+http://pe.shortgod.com/pon/tv1.php?id=136
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central
+http://pe.shortgod.com/pon/tv1.php?id=135
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central (ES)
+http://pe.shortgod.com/pon/tv1.php?id=719
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central HD
+http://pe.shortgod.com/pon/tv1.php?id=480
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png",Coraje el Perro Cobarde 24/7
+http://pe.shortgod.com/pon/tv1.php?id=519
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png",CSI: Miami 24/7
+http://pe.shortgod.com/pon/tv1.php?id=908
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/daria.png",Daria 24/7
+http://pe.shortgod.com/pon/tv1.php?id=983
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png",De PelÃ­cula
+http://pe.shortgod.com/pon/tv1.php?id=21
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png",De Pelicula HD
+http://pe.shortgod.com/pon/tv1.php?id=481
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png",DeporTV
+http://pe.shortgod.com/pon/tv1.php?id=139
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png",DHE
+http://pe.shortgod.com/pon/tv1.php?id=844
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png",Dinosaurios 24/7
+http://pe.shortgod.com/pon/tv1.php?id=670
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvplus.png",DirecTV Plus
+http://pe.shortgod.com/pon/tv1.php?id=935
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png",DirecTV Sports
+http://pe.shortgod.com/pon/tv1.php?id=259
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png",DirecTV Sports HD
+http://pe.shortgod.com/pon/tv1.php?id=974
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png",DirecTV Sports 2
+http://pe.shortgod.com/pon/tv1.php?id=667
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png",DirecTV Sports 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=975
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png",DirecTV Sports 2 Sur HD
+http://pe.shortgod.com/pon/tv1.php?id=978
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel
+http://pe.shortgod.com/pon/tv1.php?id=22
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=22/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=639
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel Sur
+http://pe.shortgod.com/pon/tv1.php?id=741
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png",Discovery Civilization
+http://pe.shortgod.com/pon/tv1.php?id=23
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H
+http://pe.shortgod.com/pon/tv1.php?id=24
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H HD
+http://pe.shortgod.com/pon/tv1.php?id=640
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids
+http://pe.shortgod.com/pon/tv1.php?id=25
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids HD
+http://pe.shortgod.com/pon/tv1.php?id=641
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png",Discovery SCI
+http://pe.shortgod.com/pon/tv1.php?id=26
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png",Discovery Theater HD
+http://pe.shortgod.com/pon/tv1.php?id=27
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo
+http://pe.shortgod.com/pon/tv1.php?id=28
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo HD
+http://pe.shortgod.com/pon/tv1.php?id=727
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png",Discovery World
+http://pe.shortgod.com/pon/tv1.php?id=187
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png",Disney Channel
+http://pe.shortgod.com/pon/tv1.php?id=29
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior
+http://pe.shortgod.com/pon/tv1.php?id=30
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior HD
+http://pe.shortgod.com/pon/tv1.php?id=826
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png",Distrito Comedia
+http://pe.shortgod.com/pon/tv1.php?id=32
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png",Djing Ibiza
+http://pe.shortgod.com/pon/tv1.php?id=277
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png",DMax HD
+http://pe.shortgod.com/pon/tv1.php?id=923
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png",Doraemon 24/7
+http://pe.shortgod.com/pon/tv1.php?id=521
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball (ES) 24/7
+http://pe.shortgod.com/pon/tv1.php?id=984
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball 24/7
+http://pe.shortgod.com/pon/tv1.php?id=425
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png",Dragon Ball GT 24/7
+http://pe.shortgod.com/pon/tv1.php?id=520
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png",Dragon Ball Super 24/7
+http://pe.shortgod.com/pon/tv1.php?id=424
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png",Dragon Ball Z 24/7
+http://pe.shortgod.com/pon/tv1.php?id=329
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballzkai.png",Dragon Ball Z Kai 24/7
+http://pe.shortgod.com/pon/tv1.php?id=993
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png",E!
+http://pe.shortgod.com/pon/tv1.php?id=33
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png",E! HD
+http://pe.shortgod.com/pon/tv1.php?id=483
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png",Ecuavisa
+http://pe.shortgod.com/pon/tv1.php?id=319
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png",Efekto TV
+http://pe.shortgod.com/pon/tv1.php?id=275
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png",El Chavo del 8 24/7
+http://pe.shortgod.com/pon/tv1.php?id=400
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcondepatula.png",El Conde Patula 24/7
+http://pe.shortgod.com/pon/tv1.php?id=949
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png",El Gallo Claudio 24/7
+http://pe.shortgod.com/pon/tv1.php?id=845
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png",El Gourmet
+http://pe.shortgod.com/pon/tv1.php?id=157
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png",El Nueve
+http://pe.shortgod.com/pon/tv1.php?id=772
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png",El Pajaro Loco 24/7
+http://pe.shortgod.com/pon/tv1.php?id=525
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png",El Principel del Rap 24/7
+http://pe.shortgod.com/pon/tv1.php?id=430
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png",El Trece
+http://pe.shortgod.com/pon/tv1.php?id=765
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png",ESPN
+http://pe.shortgod.com/pon/tv1.php?id=34
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png",ESPN MX
+http://pe.shortgod.com/pon/tv1.php?id=530
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2
+http://pe.shortgod.com/pon/tv1.php?id=35
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=484
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 MX
+http://pe.shortgod.com/pon/tv1.php?id=531
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png",ESPN 3 HD
+http://pe.shortgod.com/pon/tv1.php?id=485
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png",ESPN 4
+http://pe.shortgod.com/pon/tv1.php?id=951
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus
+http://pe.shortgod.com/pon/tv1.php?id=37
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus HD
+http://pe.shortgod.com/pon/tv1.php?id=487
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png",ESPN Premium
+http://pe.shortgod.com/pon/tv1.php?id=972
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png",ESPN Premium HD
+http://pe.shortgod.com/pon/tv1.php?id=952
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png",Eurosport
+http://pe.shortgod.com/pon/tv1.php?id=39
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png",Formula 1 TV (F1)
+http://pe.shortgod.com/pon/tv1.php?id=192
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png",Film & Arts HD
+http://pe.shortgod.com/pon/tv1.php?id=149
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png",Food Network
+http://pe.shortgod.com/pon/tv1.php?id=961
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png",Fox (ES) HD
+http://pe.shortgod.com/pon/tv1.php?id=926
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png",Fox Sur
+http://pe.shortgod.com/pon/tv1.php?id=750
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports
+http://pe.shortgod.com/pon/tv1.php?id=52
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Argentina HD
+http://pe.shortgod.com/pon/tv1.php?id=769
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports HD
+http://pe.shortgod.com/pon/tv1.php?id=493
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX
+http://pe.shortgod.com/pon/tv1.php?id=527
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX Sur
+http://pe.shortgod.com/pon/tv1.php?id=748
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Sur
+http://pe.shortgod.com/pon/tv1.php?id=402
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2
+http://pe.shortgod.com/pon/tv1.php?id=53
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=494
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 MX
+http://pe.shortgod.com/pon/tv1.php?id=528
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports Sur 2
+http://pe.shortgod.com/pon/tv1.php?id=410
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3 HD
+http://pe.shortgod.com/pon/tv1.php?id=839
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3 MX
+http://pe.shortgod.com/pon/tv1.php?id=54
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports Sur 3
+http://pe.shortgod.com/pon/tv1.php?id=511
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium
+http://pe.shortgod.com/pon/tv1.php?id=512
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium HD
+http://pe.shortgod.com/pon/tv1.php?id=658
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png",FX
+http://pe.shortgod.com/pon/tv1.php?id=42
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png",FX HD
+http://pe.shortgod.com/pon/tv1.php?id=495
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png",Gala TV
+http://pe.shortgod.com/pon/tv1.php?id=56
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png",Gamavision
+http://pe.shortgod.com/pon/tv1.php?id=891
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png",Game of Thrones 24/7
+http://pe.shortgod.com/pon/tv1.php?id=515
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png",Garage TV HD
+http://pe.shortgod.com/pon/tv1.php?id=156
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png",Glitz
+http://pe.shortgod.com/pon/tv1.php?id=158
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png",Golden
+http://pe.shortgod.com/pon/tv1.php?id=57
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png",Golden Edge
+http://pe.shortgod.com/pon/tv1.php?id=58
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png",Golf Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=964
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png",Gol Peru
+http://pe.shortgod.com/pon/tv1.php?id=686
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV
+http://pe.shortgod.com/pon/tv1.php?id=287
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV HD
+http://pe.shortgod.com/pon/tv1.php?id=514
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png",H2
+http://pe.shortgod.com/pon/tv1.php?id=61
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/happytreefriends.png",Happy Tree Friends 24/7
+http://pe.shortgod.com/pon/tv1.php?id=992
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png",HBO
+http://pe.shortgod.com/pon/tv1.php?id=62
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png",HBO HD
+http://pe.shortgod.com/pon/tv1.php?id=654
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2
+http://pe.shortgod.com/pon/tv1.php?id=300
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=732
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png",HBO Family
+http://pe.shortgod.com/pon/tv1.php?id=63
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png",HBO Family HD
+http://pe.shortgod.com/pon/tv1.php?id=968
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus
+http://pe.shortgod.com/pon/tv1.php?id=64
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus HD
+http://pe.shortgod.com/pon/tv1.php?id=655
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus Oeste HD
+http://pe.shortgod.com/pon/tv1.php?id=728
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png",HBO Pop
+http://pe.shortgod.com/pon/tv1.php?id=977
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme
+http://pe.shortgod.com/pon/tv1.php?id=814
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme HD
+http://pe.shortgod.com/pon/tv1.php?id=971
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png",HCH
+http://pe.shortgod.com/pon/tv1.php?id=779
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heman.png",He-Man 24/7
+http://pe.shortgod.com/pon/tv1.php?id=996
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png",Hey Arnold 24/7
+http://pe.shortgod.com/pon/tv1.php?id=522
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png",Historia (ES)
+http://pe.shortgod.com/pon/tv1.php?id=718
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png",History Channel
+http://pe.shortgod.com/pon/tv1.php?id=67
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png",History Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=642
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png",Hola TV
+http://pe.shortgod.com/pon/tv1.php?id=189
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png",HTV
+http://pe.shortgod.com/pon/tv1.php?id=66
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png",Imagen Television
+http://pe.shortgod.com/pon/tv1.php?id=341
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery
+http://pe.shortgod.com/pon/tv1.php?id=68
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery HD
+http://pe.shortgod.com/pon/tv1.php?id=825
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png",Ironman 24/7
+http://pe.shortgod.com/pon/tv1.php?id=948
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png",I.Sat
+http://pe.shortgod.com/pon/tv1.php?id=153
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png",Jorge el Curioso 24/7
+http://pe.shortgod.com/pon/tv1.php?id=909
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png",La 1 HD
+http://pe.shortgod.com/pon/tv1.php?id=927
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png",La 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=967
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png",Famosos Acceso Total
+http://pe.shortgod.com/pon/tv1.php?id=1025
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png",Famosos BaÃ±o
+http://pe.shortgod.com/pon/tv1.php?id=1029
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png",Famosos D. Cielo
+http://pe.shortgod.com/pon/tv1.php?id=1027
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png",Famosos D. Infierno
+http://pe.shortgod.com/pon/tv1.php?id=1026
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png",Famosos Sala
+http://pe.shortgod.com/pon/tv1.php?id=1028
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png",La Pantera Rosa 24/7
+http://pe.shortgod.com/pon/tv1.php?id=671
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png",La Rosa de Guadalupe 24/7
+http://pe.shortgod.com/pon/tv1.php?id=886
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas
+http://pe.shortgod.com/pon/tv1.php?id=411
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas HD
+http://pe.shortgod.com/pon/tv1.php?id=411/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas HD
+http://pe.shortgod.com/pon/tv1.php?id=636
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas Sur
+http://pe.shortgod.com/pon/tv1.php?id=736
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png",La Sexta
+http://pe.shortgod.com/pon/tv1.php?id=326
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png",La Sexta HD
+http://pe.shortgod.com/pon/tv1.php?id=928
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png",PERU: Latina
+http://pe.shortgod.com/pon/tv1.php?id=317
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png",Le Temes a la Oscuridad 24/7
+http://pe.shortgod.com/pon/tv1.php?id=888
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png",Lifetime
+http://pe.shortgod.com/pon/tv1.php?id=152
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png",Liga de Campeones
+http://pe.shortgod.com/pon/tv1.php?id=890
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png",Looney Tunes 24/7
+http://pe.shortgod.com/pon/tv1.php?id=524
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png",Los AÃ±os Maravillosos 24/7
+http://pe.shortgod.com/pon/tv1.php?id=810
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png",Los Picapiedra 24/7
+http://pe.shortgod.com/pon/tv1.php?id=669
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson (Temporadas 12-17) 24/7 
+http://pe.shortgod.com/pon/tv1.php?id=896
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson (Temporadas 1-5) 24/7 
+http://pe.shortgod.com/pon/tv1.php?id=894
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson (Temporadas 18-21) 24/7 
+http://pe.shortgod.com/pon/tv1.php?id=897
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson (Temporadas 27-30) 24/7 
+http://pe.shortgod.com/pon/tv1.php?id=899
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson (Temporadas 6-11) 24/7 
+http://pe.shortgod.com/pon/tv1.php?id=895
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson 24/7
+http://pe.shortgod.com/pon/tv1.php?id=357
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png",Movistar Accion HD
+http://pe.shortgod.com/pon/tv1.php?id=364
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png",Malcolm HD 24/7
+http://pe.shortgod.com/pon/tv1.php?id=798
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png",Mega
+http://pe.shortgod.com/pon/tv1.php?id=766
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png",Mega ES HD
+http://pe.shortgod.com/pon/tv1.php?id=929
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png",Movie Max
+http://pe.shortgod.com/pon/tv1.php?id=678
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png",Movistar Cine Ã‘
+http://pe.shortgod.com/pon/tv1.php?id=371
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png",Movistar Comedia
+http://pe.shortgod.com/pon/tv1.php?id=370
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png",Movistar Deportes HD
+http://pe.shortgod.com/pon/tv1.php?id=925
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png",Movistar Deportes Sur
+http://pe.shortgod.com/pon/tv1.php?id=366
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png",Movistar Deportes 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=367
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png",Movistar Estrenos HD
+http://pe.shortgod.com/pon/tv1.php?id=976
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png",Movistar LaLiga HD
+http://pe.shortgod.com/pon/tv1.php?id=916
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png",Movistar Series HD
+http://pe.shortgod.com/pon/tv1.php?id=924
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png",Mr. Bean 24/7
+http://pe.shortgod.com/pon/tv1.php?id=431
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV
+http://pe.shortgod.com/pon/tv1.php?id=69
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV (ES)
+http://pe.shortgod.com/pon/tv1.php?id=803
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV 00s
+http://pe.shortgod.com/pon/tv1.php?id=953
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV 90s
+http://pe.shortgod.com/pon/tv1.php?id=955
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV HD
+http://pe.shortgod.com/pon/tv1.php?id=828
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png",MTV WW
+http://pe.shortgod.com/pon/tv1.php?id=954
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png",MTV Live
+http://pe.shortgod.com/pon/tv1.php?id=70
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png",Mucha Lucha 24/7
+http://pe.shortgod.com/pon/tv1.php?id=994
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png",Mucha Lucha HD 24/7
+http://pe.shortgod.com/pon/tv1.php?id=995
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png",Much Music
+http://pe.shortgod.com/pon/tv1.php?id=950
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios
+http://pe.shortgod.com/pon/tv1.php?id=155
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios (Monterrey)
+http://pe.shortgod.com/pon/tv1.php?id=979
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios (Monterrey) HD
+http://pe.shortgod.com/pon/tv1.php?id=980
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios HD
+http://pe.shortgod.com/pon/tv1.php?id=943
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png",Naruto 24/7
+http://pe.shortgod.com/pon/tv1.php?id=523
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo
+http://pe.shortgod.com/pon/tv1.php?id=76
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo HD
+http://pe.shortgod.com/pon/tv1.php?id=644
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png",Nat Geo Wild
+http://pe.shortgod.com/pon/tv1.php?id=77
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png",NBA
+http://pe.shortgod.com/pon/tv1.php?id=838
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png",Nick
+http://pe.shortgod.com/pon/tv1.php?id=78
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png",Nick HD
+http://pe.shortgod.com/pon/tv1.php?id=645
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png",Nick 2 HD
+http://pe.shortgod.com/pon/tv1.php?id=646
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png",Nickelodeon
+http://pe.shortgod.com/pon/tv1.php?id=184
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png",Nick JR
+http://pe.shortgod.com/pon/tv1.php?id=79
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png",One Punch Man 24/7
+http://pe.shortgod.com/pon/tv1.php?id=661
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png",Padre de Familia 24/7
+http://pe.shortgod.com/pon/tv1.php?id=416
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png",Paramount
+http://pe.shortgod.com/pon/tv1.php?id=200
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png",Paramount HD
+http://pe.shortgod.com/pon/tv1.php?id=647
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png",Paramount HD (ES)
+http://pe.shortgod.com/pon/tv1.php?id=970
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png",Pasiones HD
+http://pe.shortgod.com/pon/tv1.php?id=755
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png",Peppa Pig 24/7
+http://pe.shortgod.com/pon/tv1.php?id=787
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png",Pinky y Cerebro 24/7
+http://pe.shortgod.com/pon/tv1.php?id=721
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Anime 24H
+http://pe.shortgod.com/pon/tv1.php?id=269
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",CTNI
+http://pe.shortgod.com/pon/tv1.php?id=160
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",El Trece
+http://pe.shortgod.com/pon/tv1.php?id=767
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Enlace Juvenil
+http://pe.shortgod.com/pon/tv1.php?id=162
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Enlace TV
+http://pe.shortgod.com/pon/tv1.php?id=161
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Garfield 24/7
+http://pe.shortgod.com/pon/tv1.php?id=812
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Juce TV
+http://pe.shortgod.com/pon/tv1.php?id=263
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",m2o TV
+http://pe.shortgod.com/pon/tv1.php?id=203
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",ORBE 21
+http://pe.shortgod.com/pon/tv1.php?id=242
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",PERU: BHTV
+http://pe.shortgod.com/pon/tv1.php?id=399
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",PERU: La Luz
+http://pe.shortgod.com/pon/tv1.php?id=338
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",PERU: Plus TV
+http://pe.shortgod.com/pon/tv1.php?id=337
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",PERU: Willax TV
+http://pe.shortgod.com/pon/tv1.php?id=334
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",RCG TV Coahuila
+http://pe.shortgod.com/pon/tv1.php?id=346
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Real Madrid TV
+http://pe.shortgod.com/pon/tv1.php?id=270
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Tele
+http://pe.shortgod.com/pon/tv1.php?id=778
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",The Walking Dead 24/7
+http://pe.shortgod.com/pon/tv1.php?id=800
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Univision Tlnovelas
+http://pe.shortgod.com/pon/tv1.php?id=413
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Uno
+http://pe.shortgod.com/pon/tv1.php?id=775
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Virgin TV
+http://pe.shortgod.com/pon/tv1.php?id=315
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png",Pokemon 24/7
+http://pe.shortgod.com/pon/tv1.php?id=420
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 01
+http://pe.shortgod.com/pon/tv1.php?id=847
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 02
+http://pe.shortgod.com/pon/tv1.php?id=848
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 03
+http://pe.shortgod.com/pon/tv1.php?id=849
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 04
+http://pe.shortgod.com/pon/tv1.php?id=850
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 05
+http://pe.shortgod.com/pon/tv1.php?id=851
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 06
+http://pe.shortgod.com/pon/tv1.php?id=852
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 07
+http://pe.shortgod.com/pon/tv1.php?id=853
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 08
+http://pe.shortgod.com/pon/tv1.php?id=854
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 09
+http://pe.shortgod.com/pon/tv1.php?id=855
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 10
+http://pe.shortgod.com/pon/tv1.php?id=856
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 11
+http://pe.shortgod.com/pon/tv1.php?id=858
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 11 HD
+http://pe.shortgod.com/pon/tv1.php?id=868
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 12 HD
+http://pe.shortgod.com/pon/tv1.php?id=869
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 13 HD
+http://pe.shortgod.com/pon/tv1.php?id=870
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 14 HD
+http://pe.shortgod.com/pon/tv1.php?id=871
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 15 HD
+http://pe.shortgod.com/pon/tv1.php?id=873
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 16 HD
+http://pe.shortgod.com/pon/tv1.php?id=874
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 17 HD
+http://pe.shortgod.com/pon/tv1.php?id=876
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 18 HD
+http://pe.shortgod.com/pon/tv1.php?id=875
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 19 HD
+http://pe.shortgod.com/pon/tv1.php?id=872
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png",PPV 20 HD
+http://pe.shortgod.com/pon/tv1.php?id=867
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png",PX TV
+http://pe.shortgod.com/pon/tv1.php?id=193
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png",Ranma 1/2 24/7
+http://pe.shortgod.com/pon/tv1.php?id=419
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png",RCN
+http://pe.shortgod.com/pon/tv1.php?id=390
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png",Retro Music
+http://pe.shortgod.com/pon/tv1.php?id=692
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png",Sakura Card Captor 24/7
+http://pe.shortgod.com/pon/tv1.php?id=672
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png",Samurai X 24/7
+http://pe.shortgod.com/pon/tv1.php?id=663
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png",Scooby Doo 24/7
+http://pe.shortgod.com/pon/tv1.php?id=422
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png",SKY Sports MX HD
+http://pe.shortgod.com/pon/tv1.php?id=989
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png",SKY Sports Premier HD
+http://pe.shortgod.com/pon/tv1.php?id=900
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png",Smallville 24/7
+http://pe.shortgod.com/pon/tv1.php?id=673
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png",Sony
+http://pe.shortgod.com/pon/tv1.php?id=145
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png",Sony HD
+http://pe.shortgod.com/pon/tv1.php?id=498
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png",South Park 24/7
+http://pe.shortgod.com/pon/tv1.php?id=674
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png",Space
+http://pe.shortgod.com/pon/tv1.php?id=83
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png",Space HD
+http://pe.shortgod.com/pon/tv1.php?id=499
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png",Spiderman 24/7
+http://pe.shortgod.com/pon/tv1.php?id=889
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png",Star Channel
+http://pe.shortgod.com/pon/tv1.php?id=45
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png",Star Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=489
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png",Star Comedy
+http://pe.shortgod.com/pon/tv1.php?id=150
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png",StarTVE
+http://pe.shortgod.com/pon/tv1.php?id=944
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png",Starz Cinema
+http://pe.shortgod.com/pon/tv1.php?id=680
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png",Starz Encore Action
+http://pe.shortgod.com/pon/tv1.php?id=682
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png",Starz Encore Family
+http://pe.shortgod.com/pon/tv1.php?id=684
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png",Starz HD
+http://pe.shortgod.com/pon/tv1.php?id=685
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png",Studio Universal
+http://pe.shortgod.com/pon/tv1.php?id=84
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png",Studio Universal HD
+http://pe.shortgod.com/pon/tv1.php?id=830
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png",Super Campeones 24/7
+http://pe.shortgod.com/pon/tv1.php?id=432
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png",SyFy
+http://pe.shortgod.com/pon/tv1.php?id=151
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png",SyFy (ES) HD
+http://pe.shortgod.com/pon/tv1.php?id=969
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png",SyFy HD
+http://pe.shortgod.com/pon/tv1.php?id=648
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png",TBS Very Funny
+http://pe.shortgod.com/pon/tv1.php?id=171
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png",TBS Very Funny HD
+http://pe.shortgod.com/pon/tv1.php?id=831
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png",TC Ecuador
+http://pe.shortgod.com/pon/tv1.php?id=885
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png",TCM
+http://pe.shortgod.com/pon/tv1.php?id=85
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png",TeenNick
+http://pe.shortgod.com/pon/tv1.php?id=882
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png",TeleAmazonas
+http://pe.shortgod.com/pon/tv1.php?id=320
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telecinco.png",Telecinco HD
+http://pe.shortgod.com/pon/tv1.php?id=922
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teledeporte.png",Teledeporte HD (ES)
+http://pe.shortgod.com/pon/tv1.php?id=330
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png",Telefe
+http://pe.shortgod.com/pon/tv1.php?id=771
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png",Telehit
+http://pe.shortgod.com/pon/tv1.php?id=91
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png",Telehit HD
+http://pe.shortgod.com/pon/tv1.php?id=649
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png",Telemedellin
+http://pe.shortgod.com/pon/tv1.php?id=197
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png",Telemundo
+http://pe.shortgod.com/pon/tv1.php?id=92
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png",Telemundo HD
+http://pe.shortgod.com/pon/tv1.php?id=660
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png",TVC Ecuador
+http://pe.shortgod.com/pon/tv1.php?id=776
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png",The Big Bang Theory 24/7
+http://pe.shortgod.com/pon/tv1.php?id=676
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png",TigoSports Bolivia
+http://pe.shortgod.com/pon/tv1.php?id=764
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png",TLC
+http://pe.shortgod.com/pon/tv1.php?id=87
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png",Tlnovelas
+http://pe.shortgod.com/pon/tv1.php?id=94
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png",Tlnovelas HD
+http://pe.shortgod.com/pon/tv1.php?id=832
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT
+http://pe.shortgod.com/pon/tv1.php?id=179
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT (ES)
+http://pe.shortgod.com/pon/tv1.php?id=716
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT HD
+http://pe.shortgod.com/pon/tv1.php?id=179/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT HD
+http://pe.shortgod.com/pon/tv1.php?id=500
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT HD (ES)
+http://pe.shortgod.com/pon/tv1.php?id=982
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png",TNT Sur
+http://pe.shortgod.com/pon/tv1.php?id=752
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png",TNT Series
+http://pe.shortgod.com/pon/tv1.php?id=90
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png",TNT Series HD
+http://pe.shortgod.com/pon/tv1.php?id=650
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png",TNT Sports
+http://pe.shortgod.com/pon/tv1.php?id=509
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png",TNT Sports Chile
+http://pe.shortgod.com/pon/tv1.php?id=906
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png",Tom y Jerry 24/7
+http://pe.shortgod.com/pon/tv1.php?id=421
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png",Tooncast
+http://pe.shortgod.com/pon/tv1.php?id=95
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png",Canal+ Toros
+http://pe.shortgod.com/pon/tv1.php?id=369
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png",Trece
+http://pe.shortgod.com/pon/tv1.php?id=774
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png",TrollHunters 24/7
+http://pe.shortgod.com/pon/tv1.php?id=662
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png",TruTv HD
+http://pe.shortgod.com/pon/tv1.php?id=501
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN 
+http://pe.shortgod.com/pon/tv1.php?id=698
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN (Pocos Datos)
+http://pe.shortgod.com/pon/tv1.php?id=822
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN HD
+http://pe.shortgod.com/pon/tv1.php?id=698/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN HD
+http://pe.shortgod.com/pon/tv1.php?id=801
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN op. 2
+http://pe.shortgod.com/pon/tv1.php?id=997
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",TUDN USA HD
+http://pe.shortgod.com/pon/tv1.php?id=86
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png",Zona TUDN 
+http://pe.shortgod.com/pon/tv1.php?id=956
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png",TVE HD
+http://pe.shortgod.com/pon/tv1.php?id=930
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png",Two And a Half Men 24/7
+http://pe.shortgod.com/pon/tv1.php?id=675
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png",Tyc Sports
+http://pe.shortgod.com/pon/tv1.php?id=274
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png",Unicable
+http://pe.shortgod.com/pon/tv1.php?id=98
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png",Unicable HD
+http://pe.shortgod.com/pon/tv1.php?id=653
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png",Universal
+http://pe.shortgod.com/pon/tv1.php?id=137
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png",Universal HD
+http://pe.shortgod.com/pon/tv1.php?id=502
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png",Universal Cinema HD
+http://pe.shortgod.com/pon/tv1.php?id=902
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png",Universal Comedy HD
+http://pe.shortgod.com/pon/tv1.php?id=903
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png",Universal Crime HD
+http://pe.shortgod.com/pon/tv1.php?id=904
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png",Universal Premiere HD
+http://pe.shortgod.com/pon/tv1.php?id=901
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png",Universal Reality HD
+http://pe.shortgod.com/pon/tv1.php?id=905
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png",Univision
+http://pe.shortgod.com/pon/tv1.php?id=99
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png",Vamos HD
+http://pe.shortgod.com/pon/tv1.php?id=940
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png",VH1
+http://pe.shortgod.com/pon/tv1.php?id=101
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png",VTV Uruaguay
+http://pe.shortgod.com/pon/tv1.php?id=708
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png",VTV2 Chile
+http://pe.shortgod.com/pon/tv1.php?id=321
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png",Warner Channel
+http://pe.shortgod.com/pon/tv1.php?id=102
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png",Warner Channel HD
+http://pe.shortgod.com/pon/tv1.php?id=503
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png",Win Sports
+http://pe.shortgod.com/pon/tv1.php?id=292
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png",Win Sports HD
+http://pe.shortgod.com/pon/tv1.php?id=754
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports +
+http://pe.shortgod.com/pon/tv1.php?id=881
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports + HD
+http://pe.shortgod.com/pon/tv1.php?id=802
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png",Yu-Gi-Oh! 24/7
+http://pe.shortgod.com/pon/tv1.php?id=664
+#EXTINF:-1 tvg-logo="https://puu.sh/q8r7W/5c19627d41.png",Canal 5 Honduras
+http://pe.shortgod.com/pon/tv1.php?id=773
+EXTINF:-1,24/ : El Santo
+http://pe.shortgod.com/pon/tv2.php?id=126.ts
+
+#EXTINF:-1,24/7 : Aquaman Classic 1967-1970
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=143.ts
+
+#EXTINF:-1,24/7 : AstroBoy 1980 Classic
+http://pe.shortgod.com/pon/tv2.php?id=141.ts
+
+#EXTINF:-1,24/7 : Canuto & Canito
+http://pe.shortgod.com/pon/tv2.php?id=121.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 1
+http://pe.shortgod.com/pon/tv2.php?id=99.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 2
+http://pe.shortgod.com/pon/tv2.php?id=102.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 3
+http://pe.shortgod.com/pon/tv2.php?id=103.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 4
+http://pe.shortgod.com/pon/tv2.php?id=104.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 5
+http://pe.shortgod.com/pon/tv2.php?id=131.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 50 Best Films
+http://pe.shortgod.com/pon/tv2.php?id=112.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 6
+http://pe.shortgod.com/pon/tv2.php?id=132.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 7
+http://pe.shortgod.com/pon/tv2.php?id=133.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 8
+http://pe.shortgod.com/pon/tv2.php?id=134.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Bonds
+http://pe.shortgod.com/pon/tv2.php?id=113.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Christmas Movies
+http://pe.shortgod.com/pon/tv2.php?id=110.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn DBZ
+http://pe.shortgod.com/pon/tv2.php?id=106.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Looney T.
+http://pe.shortgod.com/pon/tv2.php?id=107.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Max
+http://pe.shortgod.com/pon/tv2.php?id=105.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Nominated F. WJJ
+http://pe.shortgod.com/pon/tv2.php?id=109.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Oscar Winning A.
+http://pe.shortgod.com/pon/tv2.php?id=108.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Saga Collection
+http://pe.shortgod.com/pon/tv2.php?id=111.ts
+
+#EXTINF:-1,24/7 : Corre Caminos
+http://pe.shortgod.com/pon/tv2.php?id=135.ts
+
+#EXTINF:-1,24/7 : Don Gato y Su Pandilla
+http://pe.shortgod.com/pon/tv2.php?id=116.ts
+
+#EXTINF:-1,24/7 : El Avispon Verde
+http://pe.shortgod.com/pon/tv2.php?id=148.ts
+
+#EXTINF:-1,24/7 : El Chavo Del 8 A
+http://pe.shortgod.com/pon/tv2.php?id=129.ts
+
+#EXTINF:-1,24/7 : El Hombre de la Atlantida
+http://pe.shortgod.com/pon/tv2.php?id=142.ts
+
+#EXTINF:-1,24/7 : El Pulpo Manotas
+http://pe.shortgod.com/pon/tv2.php?id=118.ts
+
+#EXTINF:-1,24/7 : Hechizada
+http://pe.shortgod.com/pon/tv2.php?id=130.ts
+
+#EXTINF:-1,24/7 : Jonny Quest
+http://pe.shortgod.com/pon/tv2.php?id=145.ts
+
+#EXTINF:-1,24/7 : Kung Fu - Classic
+http://pe.shortgod.com/pon/tv2.php?id=149.ts
+
+#EXTINF:-1,24/7 : La Bruja Tonta
+http://pe.shortgod.com/pon/tv2.php?id=123.ts
+
+#EXTINF:-1,24/7 : La Casa de Mickey Mouse HD
+http://pe.shortgod.com/pon/tv2.php?id=114.ts
+
+#EXTINF:-1,24/7 : La Hormiga Atomica
+http://pe.shortgod.com/pon/tv2.php?id=122.ts
+
+#EXTINF:-1,24/7 : La Pantera Rosa 1964
+http://pe.shortgod.com/pon/tv2.php?id=147.ts
+
+#EXTINF:-1,24/7 : Lindo Pulgoso
+http://pe.shortgod.com/pon/tv2.php?id=124.ts
+
+#EXTINF:-1,24/7 : Looney Toons V1
+http://pe.shortgod.com/pon/tv2.php?id=138.ts
+
+#EXTINF:-1,24/7 : Los Autos Locos
+http://pe.shortgod.com/pon/tv2.php?id=117.ts
+
+#EXTINF:-1,24/7 : Los Osos Montaneses
+http://pe.shortgod.com/pon/tv2.php?id=144.ts
+
+#EXTINF:-1,24/7 : Los Picapiedras
+http://pe.shortgod.com/pon/tv2.php?id=119.ts
+
+#EXTINF:-1,24/7 : Mi Bella Genio
+http://pe.shortgod.com/pon/tv2.php?id=128.ts
+
+#EXTINF:-1,24/7 : PatoAventura HD
+http://pe.shortgod.com/pon/tv2.php?id=115.ts
+
+#EXTINF:-1,24/7 : Pixie & Dixie
+http://pe.shortgod.com/pon/tv2.php?id=125.ts
+
+#EXTINF:-1,24/7 : Replay A
+http://pe.shortgod.com/pon/tv2.php?id=136.ts
+
+#EXTINF:-1,24/7 : Replay B
+http://pe.shortgod.com/pon/tv2.php?id=137.ts
+
+#EXTINF:-1,24/7 : RompePortones
+http://pe.shortgod.com/pon/tv2.php?id=127.ts
+
+#EXTINF:-1,24/7 : Scooby Doo 1969 Classic
+http://pe.shortgod.com/pon/tv2.php?id=140.ts
+
+#EXTINF:-1,24/7 : Tiro Loco McGraw
+http://pe.shortgod.com/pon/tv2.php?id=146.ts
+
+#EXTINF:-1,ARG : AXN HD
+http://pe.shortgod.com/pon/tv2.php?id=178.ts
+
+#EXTINF:-1,BRA : AXN HD
+http://pe.shortgod.com/pon/tv2.php?id=551.ts
+
+#EXTINF:-1,BRA : Cartoon Network HD
+http://pe.shortgod.com/pon/tv2.php?id=552.ts
+
+#EXTINF:-1,BRA : CNN HD
+http://pe.shortgod.com/pon/tv2.php?id=556.ts
+
+#EXTINF:-1,BRA : Discovery Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=555.ts
+
+#EXTINF:-1,BRA : Globo Brasilia HD
+http://pe.shortgod.com/pon/tv2.php?id=554.ts
+
+#EXTINF:-1,BRA : HBO Brasil
+http://pe.shortgod.com/pon/tv2.php?id=560.ts
+
+#EXTINF:-1,BRA : History Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=559.ts
+
+#EXTINF:-1,BRA : STB HD
+http://pe.shortgod.com/pon/tv2.php?id=558.ts
+
+#EXTINF:-1,BRA : TV GAZETA HD
+http://pe.shortgod.com/pon/tv2.php?id=557.ts
+
+#EXTINF:-1,BRA : TV GLobo RJ HD
+http://pe.shortgod.com/pon/tv2.php?id=553.ts
+
+#EXTINF:-1,CA : Bloomberg HD
+http://pe.shortgod.com/pon/tv2.php?id=464.ts
+
+#EXTINF:-1,CA : Discovery Velocity HD
+http://pe.shortgod.com/pon/tv2.php?id=401.ts
+
+#EXTINF:-1,CO : Caracol HD
+http://pe.shortgod.com/pon/tv2.php?id=78.ts
+
+#EXTINF:-1,CO : TeleAntioquia HD
+http://pe.shortgod.com/pon/tv2.php?id=495.ts
+
+#EXTINF:-1,COL : Cable Noticias
+http://pe.shortgod.com/pon/tv2.php?id=500.ts
+
+#EXTINF:-1,COL : Canal Capital
+http://pe.shortgod.com/pon/tv2.php?id=496.ts
+
+#EXTINF:-1,COL : Caracol Internacional
+http://pe.shortgod.com/pon/tv2.php?id=14.ts
+
+#EXTINF:-1,COL : NTN 24 News
+http://pe.shortgod.com/pon/tv2.php?id=494.ts
+
+#EXTINF:-1,COL : RCN HD
+http://pe.shortgod.com/pon/tv2.php?id=87.ts
+
+#EXTINF:-1,COL : RCN Novelas HD
+http://pe.shortgod.com/pon/tv2.php?id=497.ts
+
+#EXTINF:-1,COL : SeÃ±al Colombia
+http://pe.shortgod.com/pon/tv2.php?id=502.ts
+
+#EXTINF:-1,COL : TeleCafe HD
+http://pe.shortgod.com/pon/tv2.php?id=501.ts
+
+#EXTINF:-1,COL : TeleCaribe HD
+http://pe.shortgod.com/pon/tv2.php?id=498.ts
+
+#EXTINF:-1,COL : Telemedellin
+http://pe.shortgod.com/pon/tv2.php?id=499.ts
+
+#EXTINF:-1,COL : TVAgro
+http://pe.shortgod.com/pon/tv2.php?id=47.ts
+
+#EXTINF:-1,DO : Acento TV
+http://pe.shortgod.com/pon/tv2.php?id=160.ts
+
+#EXTINF:-1,DO : Antena Latina
+http://pe.shortgod.com/pon/tv2.php?id=395.ts
+
+#EXTINF:-1,DO : Canal 25
+http://pe.shortgod.com/pon/tv2.php?id=154.ts
+
+#EXTINF:-1,DO : CDN CADENA DE NOTICIAS
+http://pe.shortgod.com/pon/tv2.php?id=396.ts
+
+#EXTINF:-1,DO : CERTV 4
+http://pe.shortgod.com/pon/tv2.php?id=151.ts
+
+#EXTINF:-1,DO : Color Vision HD
+http://pe.shortgod.com/pon/tv2.php?id=80.ts
+
+#EXTINF:-1,DO : Digital 15
+http://pe.shortgod.com/pon/tv2.php?id=392.ts
+
+#EXTINF:-1,DO : Hilando Fino
+http://pe.shortgod.com/pon/tv2.php?id=572.ts
+
+#EXTINF:-1,DO : La Opcion TV
+http://pe.shortgod.com/pon/tv2.php?id=153.ts
+
+#EXTINF:-1,DO : La Voz de Maria
+http://pe.shortgod.com/pon/tv2.php?id=491.ts
+
+#EXTINF:-1,DO : Luna TV HD
+http://pe.shortgod.com/pon/tv2.php?id=2.ts
+
+#EXTINF:-1,DO : Recuerdos TV 
+http://pe.shortgod.com/pon/tv2.php?id=156.ts
+
+#EXTINF:-1,DO : RNN Cadena de Noticias
+http://pe.shortgod.com/pon/tv2.php?id=155.ts
+
+#EXTINF:-1,DO : Super Canal 33
+http://pe.shortgod.com/pon/tv2.php?id=159.ts
+
+#EXTINF:-1,DO : Super TV 55 HD
+http://pe.shortgod.com/pon/tv2.php?id=3.ts
+
+#EXTINF:-1,DO : Teleantillas
+http://pe.shortgod.com/pon/tv2.php?id=394.ts
+
+#EXTINF:-1,DO : TeleCentro HD
+http://pe.shortgod.com/pon/tv2.php?id=81.ts
+
+#EXTINF:-1,DO : Telemicro
+http://pe.shortgod.com/pon/tv2.php?id=36.ts
+
+#EXTINF:-1,DO : Telemicro Internacional USA
+http://pe.shortgod.com/pon/tv2.php?id=79.ts
+
+#EXTINF:-1,DO : Teleradio America
+http://pe.shortgod.com/pon/tv2.php?id=571.ts
+
+#EXTINF:-1,DO : Telesistema 11
+http://pe.shortgod.com/pon/tv2.php?id=393.ts
+
+#EXTINF:-1,DO : TeleUnion HD
+http://pe.shortgod.com/pon/tv2.php?id=152.ts
+
+#EXTINF:-1,DO : Teleuniverso 29
+http://pe.shortgod.com/pon/tv2.php?id=158.ts
+
+#EXTINF:-1,DO : Tin Marin
+http://pe.shortgod.com/pon/tv2.php?id=75.ts
+
+#EXTINF:-1,DO : Tu Musica HD
+http://pe.shortgod.com/pon/tv2.php?id=54.ts
+
+#EXTINF:-1,DO : Univision Latinoamerica
+http://pe.shortgod.com/pon/tv2.php?id=397.ts
+
+#EXTINF:-1,DO : Z 101 FM TV
+http://pe.shortgod.com/pon/tv2.php?id=157.ts
+
+#EXTINF:-1,ECU : Canal Uno
+http://pe.shortgod.com/pon/tv2.php?id=529.ts
+
+#EXTINF:-1,ECU : Ecuador TV
+http://pe.shortgod.com/pon/tv2.php?id=525.ts
+
+#EXTINF:-1,ECU : Ecuavisa
+http://pe.shortgod.com/pon/tv2.php?id=524.ts
+
+#EXTINF:-1,ECU : GamaVision HD
+http://pe.shortgod.com/pon/tv2.php?id=531.ts
+
+#EXTINF:-1,ECU : RTS HD
+http://pe.shortgod.com/pon/tv2.php?id=530.ts
+
+#EXTINF:-1,ECU : TC Television
+http://pe.shortgod.com/pon/tv2.php?id=526.ts
+
+#EXTINF:-1,ECU : TeleAmazonas HD
+http://pe.shortgod.com/pon/tv2.php?id=527.ts
+
+#EXTINF:-1,ECU : TVC Televicentro
+http://pe.shortgod.com/pon/tv2.php?id=528.ts
+
+#EXTINF:-1,ES : Â¡Hola! TV HD
+http://pe.shortgod.com/pon/tv2.php?id=27.ts
+
+#EXTINF:-1,ES : 24h TVE
+http://pe.shortgod.com/pon/tv2.php?id=29.ts
+
+#EXTINF:-1,ES : A3Series HD
+http://pe.shortgod.com/pon/tv2.php?id=21.ts
+
+#EXTINF:-1,ES : Antena 3 HD
+http://pe.shortgod.com/pon/tv2.php?id=22.ts
+
+#EXTINF:-1,ES : Axn
+http://pe.shortgod.com/pon/tv2.php?id=984.ts
+
+#EXTINF:-1,ES : Canal Cocina HD
+http://pe.shortgod.com/pon/tv2.php?id=28.ts
+
+#EXTINF:-1,ES : De Casa + HD
+http://pe.shortgod.com/pon/tv2.php?id=26.ts
+
+#EXTINF:-1,ES : Caza y Pezca HD
+http://pe.shortgod.com/pon/tv2.php?id=823.ts
+
+#EXTINF:-1,ES : Crimen y Investigacion
+http://pe.shortgod.com/pon/tv2.php?id=977.ts
+
+#EXTINF:-1,ES : Divinity HD
+http://pe.shortgod.com/pon/tv2.php?id=16.ts
+
+#EXTINF:-1,ES : Discovery
+http://pe.shortgod.com/pon/tv2.php?id=978.ts
+
+#EXTINF:-1,ES : Disney
+http://pe.shortgod.com/pon/tv2.php?id=981.ts
+
+#EXTINF:-1,ES : FDF HD
+http://pe.shortgod.com/pon/tv2.php?id=24.ts
+
+#EXTINF:-1,ES : LA 1
+http://pe.shortgod.com/pon/tv2.php?id=17.ts
+
+#EXTINF:-1,ES : LA 2
+http://pe.shortgod.com/pon/tv2.php?id=15.ts
+
+#EXTINF:-1,ES : La Cuatro HD
+http://pe.shortgod.com/pon/tv2.php?id=18.ts
+
+#EXTINF:-1,ES : La Sexta HD
+http://pe.shortgod.com/pon/tv2.php?id=37.ts
+
+#EXTINF:-1,ES : Natgeo
+http://pe.shortgod.com/pon/tv2.php?id=985.ts
+
+#EXTINF:-1,ES : Mega HD
+http://pe.shortgod.com/pon/tv2.php?id=38.ts
+
+#EXTINF:-1,ES : Movistar AcciÃ³n
+http://pe.shortgod.com/pon/tv2.php?id=982.ts
+
+#EXTINF:-1,ES : Movistar Comedia
+http://pe.shortgod.com/pon/tv2.php?id=979.ts
+
+#EXTINF:-1,ES : Movistar Drama
+http://pe.shortgod.com/pon/tv2.php?id=983.ts
+
+#EXTINF:-1,ES : Movistar Serie
+http://pe.shortgod.com/pon/tv2.php?id=980.ts
+
+#EXTINF:-1,ES : Odisea TV
+http://pe.shortgod.com/pon/tv2.php?id=31.ts
+
+#EXTINF:-1,ES : TeleCinco HD
+http://pe.shortgod.com/pon/tv2.php?id=19.ts
+
+#EXTINF:-1,ES : Tv Galicia
+http://pe.shortgod.com/pon/tv2.php?id=838.ts
+
+#EXTINF:-1,ES : Toros Tv
+http://pe.shortgod.com/pon/tv2.php?id=871.ts
+
+#EXTINF:-1,ES : Tnt
+http://pe.shortgod.com/pon/tv2.php?id=986.ts
+
+#EXTINF:-1,ES : Tv Viajes Pluto
+http://pe.shortgod.com/pon/tv2.php?id=25.ts
+
+#EXTINF:-1,ES : Tve
+http://pe.shortgod.com/pon/tv2.php?id=20.ts
+
+#EXTINF:-1,LAT :  Spectrum Noticias NY
+http://pe.shortgod.com/pon/tv2.php?id=57.ts
+
+#EXTINF:-1,LAT : A&E HD
+http://pe.shortgod.com/pon/tv2.php?id=187.ts
+
+#EXTINF:-1,LAT : AMC HD
+http://pe.shortgod.com/pon/tv2.php?id=186.ts
+
+#EXTINF:-1,LAT : Animal Planet HD
+http://pe.shortgod.com/pon/tv2.php?id=174.ts
+
+#EXTINF:-1,LAT : Antena 3 Internacional
+http://pe.shortgod.com/pon/tv2.php?id=23.ts
+
+#EXTINF:-1,LAT : AXN MX HD
+http://pe.shortgod.com/pon/tv2.php?id=177.ts
+
+#EXTINF:-1,LAT : Baby First HD
+http://pe.shortgod.com/pon/tv2.php?id=390.ts
+
+#EXTINF:-1,LAT : Baby TV HD
+http://pe.shortgod.com/pon/tv2.php?id=391.ts
+
+#EXTINF:-1,LAT : Boomerang HD
+http://pe.shortgod.com/pon/tv2.php?id=386.ts
+
+#EXTINF:-1,LAT : Canal Sony HD
+http://pe.shortgod.com/pon/tv2.php?id=179.ts
+
+#EXTINF:-1,LAT : Cartoon Newtwork HD
+http://pe.shortgod.com/pon/tv2.php?id=381.ts
+
+#EXTINF:-1,LAT : Centro America TV HD
+http://pe.shortgod.com/pon/tv2.php?id=380.ts
+
+#EXTINF:-1,LAT : Cine Canal HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=4.ts
+
+#EXTINF:-1,LAT : Cinemax HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=55.ts
+
+#EXTINF:-1,LAT : Comedy Central HD
+http://pe.shortgod.com/pon/tv2.php?id=184.ts
+
+#EXTINF:-1,LAT : De Peliculas HD
+http://pe.shortgod.com/pon/tv2.php?id=532.ts
+
+#EXTINF:-1,LAT : Discovery Familia
+http://pe.shortgod.com/pon/tv2.php?id=56.ts
+
+#EXTINF:-1,LAT : Discovery Kids HD
+http://pe.shortgod.com/pon/tv2.php?id=388.ts
+
+#EXTINF:-1,LAT : Discovery Science HD
+http://pe.shortgod.com/pon/tv2.php?id=165.ts
+
+#EXTINF:-1,LAT : Disney Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=398.ts
+
+#EXTINF:-1,LAT : Disney Junior HD
+http://pe.shortgod.com/pon/tv2.php?id=399.ts
+
+#EXTINF:-1,LAT : Disney XD HD
+http://pe.shortgod.com/pon/tv2.php?id=400.ts
+
+#EXTINF:-1,LAT : DW LatinoAmerica (W)
+http://pe.shortgod.com/pon/tv2.php?id=379.ts
+
+#EXTINF:-1,LAT : E! Entreteiment HD
+http://pe.shortgod.com/pon/tv2.php?id=188.ts
+
+#EXTINF:-1,LAT : El Gourmet HD
+http://pe.shortgod.com/pon/tv2.php?id=189.ts
+
+#EXTINF:-1,LAT : Enlace
+http://pe.shortgod.com/pon/tv2.php?id=150.ts
+
+#EXTINF:-1,LAT : Estrellas TV
+http://pe.shortgod.com/pon/tv2.php?id=77.ts
+
+#EXTINF:-1,LAT : Forotv HD
+http://pe.shortgod.com/pon/tv2.php?id=541.ts
+
+#EXTINF:-1,LAT : France 24 (W)
+http://pe.shortgod.com/pon/tv2.php?id=378.ts
+
+#EXTINF:-1,LAT : Galavision HD
+http://pe.shortgod.com/pon/tv2.php?id=85.ts
+
+#EXTINF:-1,LAT : Golden HD
+http://pe.shortgod.com/pon/tv2.php?id=190.ts
+
+#EXTINF:-1,LAT : H2 History 2 HD
+http://pe.shortgod.com/pon/tv2.php?id=173.ts
+
+#EXTINF:-1,LAT : HBO 2 HD
+http://pe.shortgod.com/pon/tv2.php?id=168.ts
+
+#EXTINF:-1,LAT : HBO Family HD
+http://pe.shortgod.com/pon/tv2.php?id=169.ts
+
+#EXTINF:-1,LAT : HBO HD
+http://pe.shortgod.com/pon/tv2.php?id=167.ts
+
+#EXTINF:-1,LAT : HBO PLUS HD
+http://pe.shortgod.com/pon/tv2.php?id=170.ts
+
+#EXTINF:-1,LAT : HBO POP
+http://pe.shortgod.com/pon/tv2.php?id=61.ts
+
+#EXTINF:-1,LAT : HBO Signature HD
+http://pe.shortgod.com/pon/tv2.php?id=171.ts
+
+#EXTINF:-1,LAT : HBO XTREME HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=91.ts
+
+#EXTINF:-1,LAT : HispanTV WEB
+http://pe.shortgod.com/pon/tv2.php?id=377.ts
+
+#EXTINF:-1,LAT : HITN HD
+http://pe.shortgod.com/pon/tv2.php?id=376.ts
+
+#EXTINF:-1,LAT : Las Estrellas
+http://pe.shortgod.com/pon/tv2.php?id=88.ts
+
+#EXTINF:-1,LAT : LifeTime HD
+http://pe.shortgod.com/pon/tv2.php?id=370.ts
+
+#EXTINF:-1,LAT : MEGA TV Miami HD
+http://pe.shortgod.com/pon/tv2.php?id=483.ts
+
+#EXTINF:-1,LAT : MTV 80Â´S HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=373.ts
+
+#EXTINF:-1,LAT : MTV HD
+http://pe.shortgod.com/pon/tv2.php?id=372.ts
+
+#EXTINF:-1,LAT : MTV Hits HD
+http://pe.shortgod.com/pon/tv2.php?id=374.ts
+
+#EXTINF:-1,LAT : MTV LIVE HD
+http://pe.shortgod.com/pon/tv2.php?id=375.ts
+
+#EXTINF:-1,LAT : NatGeo Kids HD
+http://pe.shortgod.com/pon/tv2.php?id=389.ts
+
+#EXTINF:-1,LAT : NatGeo Wild HD
+http://pe.shortgod.com/pon/tv2.php?id=172.ts
+
+#EXTINF:-1,LAT : Nick Jr. HD
+http://pe.shortgod.com/pon/tv2.php?id=385.ts
+
+#EXTINF:-1,LAT : Nickelodeon HD
+http://pe.shortgod.com/pon/tv2.php?id=382.ts
+
+#EXTINF:-1,LAT : Nicktoon HD
+http://pe.shortgod.com/pon/tv2.php?id=383.ts
+
+#EXTINF:-1,LAT : Paramount Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=180.ts
+
+#EXTINF:-1,LAT : Pasiones Pan
+http://pe.shortgod.com/pon/tv2.php?id=10.ts
+
+#EXTINF:-1,LAT : Pasiones USA
+http://pe.shortgod.com/pon/tv2.php?id=11.ts
+
+#EXTINF:-1,LAT : Space HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=182.ts
+
+#EXTINF:-1,LAT : Star Channel HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=5.ts
+
+#EXTINF:-1,LAT : Starz Black HD
+http://pe.shortgod.com/pon/tv2.php?id=485.ts
+
+#EXTINF:-1,LAT : Starz Cinema HD
+http://pe.shortgod.com/pon/tv2.php?id=478.ts
+
+#EXTINF:-1,LAT : Starz Edge HD
+http://pe.shortgod.com/pon/tv2.php?id=484.ts
+
+#EXTINF:-1,LAT : Starz Encore Action HD
+http://pe.shortgod.com/pon/tv2.php?id=479.ts
+
+#EXTINF:-1,LAT : Starz Encore Classic HD
+http://pe.shortgod.com/pon/tv2.php?id=482.ts
+
+#EXTINF:-1,LAT : Starz Encore Family HD
+http://pe.shortgod.com/pon/tv2.php?id=481.ts
+
+#EXTINF:-1,LAT : Starz Encore Suspense
+http://pe.shortgod.com/pon/tv2.php?id=486.ts
+
+#EXTINF:-1,LAT : Starz Encore Western HD
+http://pe.shortgod.com/pon/tv2.php?id=487.ts
+
+#EXTINF:-1,LAT : Starz HD
+http://pe.shortgod.com/pon/tv2.php?id=480.ts
+
+#EXTINF:-1,LAT : Studio Universal HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=163.ts
+
+#EXTINF:-1,LAT : SyFy Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=181.ts
+
+#EXTINF:-1,LAT : TCM
+http://pe.shortgod.com/pon/tv2.php?id=183.ts
+
+#EXTINF:-1,LAT : Teen Nick HD
+http://pe.shortgod.com/pon/tv2.php?id=384.ts
+
+#EXTINF:-1,LAT : Telehits HD
+http://pe.shortgod.com/pon/tv2.php?id=542.ts
+
+#EXTINF:-1,LAT : Telemundo Internacional
+http://pe.shortgod.com/pon/tv2.php?id=161.ts
+
+#EXTINF:-1,LAT : TLC HD
+http://pe.shortgod.com/pon/tv2.php?id=371.ts
+
+#EXTINF:-1,LAT : TNT HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=1.ts
+
+#EXTINF:-1,LAT : Tooncast HD
+http://pe.shortgod.com/pon/tv2.php?id=387.ts
+
+#EXTINF:-1,LAT : TruTV HD
+http://pe.shortgod.com/pon/tv2.php?id=185.ts
+
+#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
+http://pe.shortgod.com/pon/tv2.php?id=120.ts
+
+#EXTINF:-1,LAT : Universal Channels TV HD
+http://pe.shortgod.com/pon/tv2.php?id=175.ts
+
+#EXTINF:-1,LAT : Univision Novelas HD
+http://pe.shortgod.com/pon/tv2.php?id=86.ts
+
+#EXTINF:-1,LAT : Warner Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=176.ts
+
+#EXTINF:-1,LAT | Discovery Channel MX VIP
+http://pe.shortgod.com/pon/tv2.php?id=92.ts
+
+#EXTINF:-1,LAT | Discovery Theather HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=166.ts
+
+#EXTINF:-1,LAT | Discovery Turbo HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=76.ts
+
+#EXTINF:-1,LAT | Discovery World HD VIP
+http://pe.shortgod.com/pon/tv2.php?id=164.ts
+
+#EXTINF:-1,Lib : Aghani HD
+http://pe.shortgod.com/pon/tv2.php?id=72.ts
+
+#EXTINF:-1,LIB : Al-Manar
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=62.ts
+
+#EXTINF:-1,LIB : Alzahra TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=63.ts
+
+#EXTINF:-1,LIB : LBCI HD
+http://pe.shortgod.com/pon/tv2.php?id=67.ts
+
+#EXTINF:-1,LIB : MTV
+http://pe.shortgod.com/pon/tv2.php?id=70.ts
+
+#EXTINF:-1,LIB : Noursat
+http://pe.shortgod.com/pon/tv2.php?id=69.ts
+
+#EXTINF:-1,LIB : OTV HD
+http://pe.shortgod.com/pon/tv2.php?id=68.ts
+
+#EXTINF:-1,LIB : Sky News
+http://pe.shortgod.com/pon/tv2.php?id=64.ts
+
+#EXTINF:-1,LIB : TL LIBAN
+http://pe.shortgod.com/pon/tv2.php?id=65.ts
+
+#EXTINF:-1,MEX : Az Cinema HD
+http://pe.shortgod.com/pon/tv2.php?id=539.ts
+
+#EXTINF:-1,MEX : AZ Clic! HD
+http://pe.shortgod.com/pon/tv2.php?id=538.ts
+
+#EXTINF:-1,MEX : AZ Corazon HD
+http://pe.shortgod.com/pon/tv2.php?id=535.ts
+
+#EXTINF:-1,MEX : AZ Mundo HD
+http://pe.shortgod.com/pon/tv2.php?id=536.ts
+
+#EXTINF:-1,MEX : Azteca 7 HD
+http://pe.shortgod.com/pon/tv2.php?id=534.ts
+
+#EXTINF:-1,MEX : Azteca Uno HD
+http://pe.shortgod.com/pon/tv2.php?id=537.ts
+
+#EXTINF:-1,MEX : Canal 5 HD
+http://pe.shortgod.com/pon/tv2.php?id=30.ts
+
+#EXTINF:-1,MEX : Canal Nu9ve HD
+http://pe.shortgod.com/pon/tv2.php?id=543.ts
+
+#EXTINF:-1,MEX : TL Novelas
+http://pe.shortgod.com/pon/tv2.php?id=533.ts
+
+#EXTINF:-1,MEX : Distrito Comedia
+http://pe.shortgod.com/pon/tv2.php?id=540.ts
+
+#EXTINF:-1,PAN : ECO TV HD
+http://pe.shortgod.com/pon/tv2.php?id=550.ts
+
+#EXTINF:-1,PAN : RPC 4 HD
+http://pe.shortgod.com/pon/tv2.php?id=545.ts
+
+#EXTINF:-1,PAN : SerTV HD
+http://pe.shortgod.com/pon/tv2.php?id=549.ts
+
+#EXTINF:-1,PAN : Telemetro 13
+http://pe.shortgod.com/pon/tv2.php?id=546.ts
+
+#EXTINF:-1,PAN : TvMAX 9 HD
+http://pe.shortgod.com/pon/tv2.php?id=547.ts
+
+#EXTINF:-1,PAN : TVN HD
+http://pe.shortgod.com/pon/tv2.php?id=544.ts
+
+#EXTINF:-1,PAN : NEX TV 21
+http://pe.shortgod.com/pon/tv2.php?id=548.ts
+
+#EXTINF:-1,PE : America TV
+http://pe.shortgod.com/pon/tv2.php?id=561.ts
+
+#EXTINF:-1,PE : ATV HD
+http://pe.shortgod.com/pon/tv2.php?id=568.ts
+
+#EXTINF:-1,PE : BHTV Peru
+http://pe.shortgod.com/pon/tv2.php?id=567.ts
+
+#EXTINF:-1,PE : Canal N
+http://pe.shortgod.com/pon/tv2.php?id=569.ts
+
+#EXTINF:-1,PE : Frecuencia Latina
+http://pe.shortgod.com/pon/tv2.php?id=563.ts
+
+#EXTINF:-1,PE : IPE TV
+http://pe.shortgod.com/pon/tv2.php?id=565.ts
+
+#EXTINF:-1,PE : Panamerica
+http://pe.shortgod.com/pon/tv2.php?id=562.ts
+
+#EXTINF:-1,PE : Peru Magico
+http://pe.shortgod.com/pon/tv2.php?id=564.ts
+
+#EXTINF:-1,PE : RPP HD
+http://pe.shortgod.com/pon/tv2.php?id=570.ts
+
+#EXTINF:-1,PE : TV PERU
+http://pe.shortgod.com/pon/tv2.php?id=566.ts
+
+#EXTINF:-1,PR : MEga TV
+http://pe.shortgod.com/pon/tv2.php?id=490.ts
+
+#EXTINF:-1,PR : TeleIslas
+http://pe.shortgod.com/pon/tv2.php?id=46.ts
+
+#EXTINF:-1,PR : Telemundo Puerto Rico HD
+http://pe.shortgod.com/pon/tv2.php?id=13.ts
+
+#EXTINF:-1,PR : Univision Puerto Rico HD
+http://pe.shortgod.com/pon/tv2.php?id=39.ts
+
+#EXTINF:-1,PR : Wapa America
+http://pe.shortgod.com/pon/tv2.php?id=12.ts
+
+#EXTINF:-1,PR : Wapa TV
+http://pe.shortgod.com/pon/tv2.php?id=489.ts
+
+#EXTINF:-1,REL : EWTN LATINO (W)
+http://pe.shortgod.com/pon/tv2.php?id=492.ts
+
+#EXTINF:-1,US : 69 WFMZ Philadelphia HD
+http://pe.shortgod.com/pon/tv2.php?id=407.ts
+
+#EXTINF:-1,US : A&E HD
+http://pe.shortgod.com/pon/tv2.php?id=446.ts
+
+#EXTINF:-1,US : ABC 7 HD
+http://pe.shortgod.com/pon/tv2.php?id=49.ts
+
+#EXTINF:-1,US : ABC Miami HD
+http://pe.shortgod.com/pon/tv2.php?id=53.ts
+
+#EXTINF:-1,US : ABC NEWS HD
+http://pe.shortgod.com/pon/tv2.php?id=60.ts
+
+#EXTINF:-1,US : AMC HD
+http://pe.shortgod.com/pon/tv2.php?id=429.ts
+
+#EXTINF:-1,US : America TeVe
+http://pe.shortgod.com/pon/tv2.php?id=488.ts
+
+#EXTINF:-1,US : Animal Planet HD
+http://pe.shortgod.com/pon/tv2.php?id=457.ts
+
+#EXTINF:-1,US : Baby First HD
+http://pe.shortgod.com/pon/tv2.php?id=426.ts
+
+#EXTINF:-1,US : Baby TV HD
+http://pe.shortgod.com/pon/tv2.php?id=425.ts
+
+#EXTINF:-1,US : BET HD
+http://pe.shortgod.com/pon/tv2.php?id=437.ts
+
+#EXTINF:-1,US : Boomerang HD
+http://pe.shortgod.com/pon/tv2.php?id=420.ts
+
+#EXTINF:-1,US : Cartoon Network HD
+http://pe.shortgod.com/pon/tv2.php?id=414.ts
+
+#EXTINF:-1,US : CBN HD
+http://pe.shortgod.com/pon/tv2.php?id=71.ts
+
+#EXTINF:-1,US : CBS 12 WPRI Providence HD
+http://pe.shortgod.com/pon/tv2.php?id=58.ts
+
+#EXTINF:-1,US : CBS 2 NY HD
+http://pe.shortgod.com/pon/tv2.php?id=48.ts
+
+#EXTINF:-1,US : CBS NEWS NY
+http://pe.shortgod.com/pon/tv2.php?id=66.ts
+
+#EXTINF:-1,US : CNBC HD
+http://pe.shortgod.com/pon/tv2.php?id=404.ts
+
+#EXTINF:-1,US : CNN HD
+http://pe.shortgod.com/pon/tv2.php?id=35.ts
+
+#EXTINF:-1,US : Comedy Central HD
+http://pe.shortgod.com/pon/tv2.php?id=436.ts
+
+#EXTINF:-1,US : Cooking Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=441.ts
+
+#EXTINF:-1,US : Discovery Channels HD
+http://pe.shortgod.com/pon/tv2.php?id=452.ts
+
+#EXTINF:-1,US : Discovery Family HD
+http://pe.shortgod.com/pon/tv2.php?id=454.ts
+
+#EXTINF:-1,US : Discovery Investigation HD
+http://pe.shortgod.com/pon/tv2.php?id=453.ts
+
+#EXTINF:-1,US : Discovery Science HD
+http://pe.shortgod.com/pon/tv2.php?id=455.ts
+
+#EXTINF:-1,US : Discovery Turbo UK
+http://pe.shortgod.com/pon/tv2.php?id=456.ts
+
+#EXTINF:-1,US : Disney Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=422.ts
+
+#EXTINF:-1,US : Disney Jr. HD
+http://pe.shortgod.com/pon/tv2.php?id=423.ts
+
+#EXTINF:-1,US : Disney XD HD
+http://pe.shortgod.com/pon/tv2.php?id=424.ts
+
+#EXTINF:-1,US : Diy Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=411.ts
+
+#EXTINF:-1,US : E! Entertaiment HD
+http://pe.shortgod.com/pon/tv2.php?id=431.ts
+
+#EXTINF:-1,US : EWTN ENGLISH
+http://pe.shortgod.com/pon/tv2.php?id=493.ts
+
+#EXTINF:-1,US : Food Network HD
+http://pe.shortgod.com/pon/tv2.php?id=7.ts
+
+#EXTINF:-1,US : Fox 5 NY HD
+http://pe.shortgod.com/pon/tv2.php?id=34.ts
+
+#EXTINF:-1,US : Fox Business Network HD
+http://pe.shortgod.com/pon/tv2.php?id=450.ts
+
+#EXTINF:-1,US : Fox News HD
+http://pe.shortgod.com/pon/tv2.php?id=410.ts
+
+#EXTINF:-1,US : FreeForm HD
+http://pe.shortgod.com/pon/tv2.php?id=448.ts
+
+#EXTINF:-1,US : FX HD
+http://pe.shortgod.com/pon/tv2.php?id=438.ts
+
+#EXTINF:-1,US : FXM HD
+http://pe.shortgod.com/pon/tv2.php?id=439.ts
+
+#EXTINF:-1,US : Game Show Network HD
+http://pe.shortgod.com/pon/tv2.php?id=449.ts
+
+#EXTINF:-1,US : HallMark Drama HD
+http://pe.shortgod.com/pon/tv2.php?id=463.ts
+
+#EXTINF:-1,US : HallMark HD
+http://pe.shortgod.com/pon/tv2.php?id=461.ts
+
+#EXTINF:-1,US : Hallmark Movies & Mist. HD
+http://pe.shortgod.com/pon/tv2.php?id=462.ts
+
+#EXTINF:-1,US : HBO 2 HD
+http://pe.shortgod.com/pon/tv2.php?id=465.ts
+
+#EXTINF:-1,US : HBO Comedy HD
+http://pe.shortgod.com/pon/tv2.php?id=467.ts
+
+#EXTINF:-1,US : HBO Family HD
+http://pe.shortgod.com/pon/tv2.php?id=466.ts
+
+#EXTINF:-1,US : HBO HD
+http://pe.shortgod.com/pon/tv2.php?id=8.ts
+
+#EXTINF:-1,US : HBO ZONE HD
+http://pe.shortgod.com/pon/tv2.php?id=9.ts
+
+#EXTINF:-1,US : HGTV HD
+http://pe.shortgod.com/pon/tv2.php?id=51.ts
+
+#EXTINF:-1,US : History Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=458.ts
+
+#EXTINF:-1,US : Ion Television
+http://pe.shortgod.com/pon/tv2.php?id=74.ts
+
+#EXTINF:-1,US : LifeTime HD
+http://pe.shortgod.com/pon/tv2.php?id=434.ts
+
+#EXTINF:-1,US : MSNBC HD
+http://pe.shortgod.com/pon/tv2.php?id=405.ts
+
+#EXTINF:-1,US : MTV 2 HD
+http://pe.shortgod.com/pon/tv2.php?id=444.ts
+
+#EXTINF:-1,US : MTV Classic HD
+http://pe.shortgod.com/pon/tv2.php?id=443.ts
+
+#EXTINF:-1,US : MTV HD
+http://pe.shortgod.com/pon/tv2.php?id=442.ts
+
+#EXTINF:-1,US : Nasa TV
+http://pe.shortgod.com/pon/tv2.php?id=162.ts
+
+#EXTINF:-1,US : NatGeo HD
+http://pe.shortgod.com/pon/tv2.php?id=459.ts
+
+#EXTINF:-1,US : NatGeo Wild HD
+http://pe.shortgod.com/pon/tv2.php?id=460.ts
+
+#EXTINF:-1,US : NBC 4 NY HD
+http://pe.shortgod.com/pon/tv2.php?id=52.ts
+
+#EXTINF:-1,US : News 12 Bronx
+http://pe.shortgod.com/pon/tv2.php?id=100.ts
+
+#EXTINF:-1,US : News 12 Long Island HD
+http://pe.shortgod.com/pon/tv2.php?id=413.ts
+
+#EXTINF:-1,US : News 12 New Jersey HD
+http://pe.shortgod.com/pon/tv2.php?id=59.ts
+
+#EXTINF:-1,US : Nick Jr HD
+http://pe.shortgod.com/pon/tv2.php?id=417.ts
+
+#EXTINF:-1,US : Nickelodeon HD
+http://pe.shortgod.com/pon/tv2.php?id=416.ts
+
+#EXTINF:-1,US : Nicktoon HD
+http://pe.shortgod.com/pon/tv2.php?id=419.ts
+
+#EXTINF:-1,US : One American News Network HD
+http://pe.shortgod.com/pon/tv2.php?id=403.ts
+
+#EXTINF:-1,US : Oprah Winfrey Network HD
+http://pe.shortgod.com/pon/tv2.php?id=427.ts
+
+#EXTINF:-1,US : Oxygen Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=433.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 1
+http://pe.shortgod.com/pon/tv2.php?id=94.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 2
+http://pe.shortgod.com/pon/tv2.php?id=95.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 3
+http://pe.shortgod.com/pon/tv2.php?id=96.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 4
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=97.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 5
+http://pe.shortgod.com/pon/tv2.php?id=98.ts
+
+#EXTINF:-1,US : PBS Kids HD
+http://pe.shortgod.com/pon/tv2.php?id=421.ts
+
+#EXTINF:-1,US : ShowTime Beyond HD
+http://pe.shortgod.com/pon/tv2.php?id=523.ts
+
+#EXTINF:-1,US : ShowTime East HD
+http://pe.shortgod.com/pon/tv2.php?id=101.ts
+
+#EXTINF:-1,US : ShowTime Extreme HD
+http://pe.shortgod.com/pon/tv2.php?id=521.ts
+
+#EXTINF:-1,US : ShowTime Family Zone HD
+http://pe.shortgod.com/pon/tv2.php?id=520.ts
+
+#EXTINF:-1,US : ShowTime Next HD
+http://pe.shortgod.com/pon/tv2.php?id=519.ts
+
+#EXTINF:-1,US : ShowTime ShowCase HD
+http://pe.shortgod.com/pon/tv2.php?id=522.ts
+
+#EXTINF:-1,US : ShowTime West HD
+http://pe.shortgod.com/pon/tv2.php?id=517.ts
+
+#EXTINF:-1,US : ShowTime Women HD
+http://pe.shortgod.com/pon/tv2.php?id=518.ts
+
+#EXTINF:-1,US : Spectrum News NY1 HD
+http://pe.shortgod.com/pon/tv2.php?id=93.ts
+
+#EXTINF:-1,US : Starz Action HD
+http://pe.shortgod.com/pon/tv2.php?id=469.ts
+
+#EXTINF:-1,US : Starz Cinema HD
+http://pe.shortgod.com/pon/tv2.php?id=477.ts
+
+#EXTINF:-1,US : Starz Comedy HD
+http://pe.shortgod.com/pon/tv2.php?id=476.ts
+
+#EXTINF:-1,US : Starz Edge HD
+http://pe.shortgod.com/pon/tv2.php?id=470.ts
+
+#EXTINF:-1,US : Starz Encore Classic HD
+http://pe.shortgod.com/pon/tv2.php?id=475.ts
+
+#EXTINF:-1,US : Starz Encore Family HD
+http://pe.shortgod.com/pon/tv2.php?id=471.ts
+
+#EXTINF:-1,US : Starz Encore Suspense HD
+http://pe.shortgod.com/pon/tv2.php?id=472.ts
+
+#EXTINF:-1,US : Starz Encore Westerns HD
+http://pe.shortgod.com/pon/tv2.php?id=473.ts
+
+#EXTINF:-1,US : Starz HD
+http://pe.shortgod.com/pon/tv2.php?id=468.ts
+
+#EXTINF:-1,US : Starz In Black HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=474.ts
+
+#EXTINF:-1,US : Sundance HD
+http://pe.shortgod.com/pon/tv2.php?id=412.ts
+
+#EXTINF:-1,US : Tarima HD
+http://pe.shortgod.com/pon/tv2.php?id=73.ts
+
+#EXTINF:-1,US : TBS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=6.ts
+
+#EXTINF:-1,US : TCM HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=428.ts
+
+#EXTINF:-1,US : Teen Nick HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=418.ts
+
+#EXTINF:-1,US : Telemundo 47 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=32.ts
+
+#EXTINF:-1,US : Telemundo 51
+http://pe.shortgod.com/pon/tv2.php?id=84.ts
+
+#EXTINF:-1,US : Telemundo Atlanta HD
+http://pe.shortgod.com/pon/tv2.php?id=42.ts
+
+#EXTINF:-1,US : Telemundo HD Boston HD
+http://pe.shortgod.com/pon/tv2.php?id=82.ts
+
+#EXTINF:-1,US : Telemundo Orlando HD
+http://pe.shortgod.com/pon/tv2.php?id=43.ts
+
+#EXTINF:-1,US : Telemundo Philadelphia HD
+http://pe.shortgod.com/pon/tv2.php?id=83.ts
+
+#EXTINF:-1,US : Telemundo Rodhe Island HD
+http://pe.shortgod.com/pon/tv2.php?id=44.ts
+
+#EXTINF:-1,US : The CW HD
+http://pe.shortgod.com/pon/tv2.php?id=430.ts
+
+#EXTINF:-1,US : TLC HD
+http://pe.shortgod.com/pon/tv2.php?id=50.ts
+
+#EXTINF:-1,US : Travel Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=447.ts
+
+#EXTINF:-1,US : Tru TV HD
+http://pe.shortgod.com/pon/tv2.php?id=435.ts
+
+#EXTINF:-1,US : TV LAND HD
+http://pe.shortgod.com/pon/tv2.php?id=451.ts
+
+#EXTINF:-1,US : Unimas HD NY
+http://pe.shortgod.com/pon/tv2.php?id=45.ts
+
+#EXTINF:-1,US : Universal Kids HD
+http://pe.shortgod.com/pon/tv2.php?id=415.ts
+
+#EXTINF:-1,US : Univision 23 Miami HD
+http://pe.shortgod.com/pon/tv2.php?id=40.ts
+
+#EXTINF:-1,US : Univision 41 HD
+http://pe.shortgod.com/pon/tv2.php?id=33.ts
+
+#EXTINF:-1,US : USA Network HD
+http://pe.shortgod.com/pon/tv2.php?id=90.ts
+
+#EXTINF:-1,US : VH1 HD
+http://pe.shortgod.com/pon/tv2.php?id=445.ts
+
+#EXTINF:-1,US : WETV HD
+http://pe.shortgod.com/pon/tv2.php?id=409.ts
+
+#EXTINF:-1,US : WRAL-5 TV NBC
+http://pe.shortgod.com/pon/tv2.php?id=406.ts
+
+#EXTINF:-1,US : MY 9 WWOR NY
+http://pe.shortgod.com/pon/tv2.php?id=402.ts
+
+#EXTINF:-1,US : NBC 10 Rodhe Island (WJAR)
+http://pe.shortgod.com/pon/tv2.php?id=89.ts
+
+#EXTINF:-1,US : SyFy Channel HD
+http://pe.shortgod.com/pon/tv2.php?id=432.ts
+
+#EXTINF:-1,US : WFTV Orlando HD
+http://pe.shortgod.com/pon/tv2.php?id=408.ts
+
+#EXTINF:-1,VEN : EVtv
+http://pe.shortgod.com/pon/tv2.php?id=574.ts
+
+#EXTINF:-1,VEN : TeleSur
+http://pe.shortgod.com/pon/tv2.php?id=573.ts
+
+#EXTINF:-1,VEN : TV Venezuela
+http://pe.shortgod.com/pon/tv2.php?id=575.ts
+
+#EXTINF:-1,VEN : Venevision
+http://pe.shortgod.com/pon/tv2.php?id=576.ts
+
+#EXTINF:-1 ,Barca Tv
+http://pe.shortgod.com/pon/tv2.php?id=827.ts
+#EXTINF:-1 ,Caza y Pezca
+http://pe.shortgod.com/pon/tv2.php?id=823.ts
+#EXTINF:-1 ,Claro Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=794.ts
+#EXTINF:-1 ,Claro Sports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=795.ts
+#EXTINF:-1 ,Combate
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=807.ts
+#EXTINF:-1 ,Dazn 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=781.ts
+#EXTINF:-1 ,Dazn 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=782.ts
+#EXTINF:-1 ,Directv 1 EC
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=1032.ts
+#EXTINF:-1 ,Directv 2 EC
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=850.ts
+#EXTINF:-1 ,Directv Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=791.ts
+#EXTINF:-1 ,Directv Sports 2
+http://pe.shortgod.com/pon/tv2.php?id=792.ts
+#EXTINF:-1 ,Directv Sports+
+http://pe.shortgod.com/pon/tv2.php?id=793.ts
+#EXTINF:-1 ,ECDF
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=804.ts
+#EXTINF:-1 ,Espn 1
+http://pe.shortgod.com/pon/tv2.php?id=718.ts
+#EXTINF:-1 ,Espn 1 MX
+http://pe.shortgod.com/pon/tv2.php?id=780.ts
+#EXTINF:-1 ,Espn 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=719.ts
+#EXTINF:-1 ,Espn 2 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=796.ts
+#EXTINF:-1 ,Espn 3
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=720.ts
+#EXTINF:-1 ,Espn 3 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=797.ts
+#EXTINF:-1 ,Espn Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=809.ts
+#EXTINF:-1 ,Espn Premium
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=721.ts
+#EXTINF:-1 ,Eurosports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=825.ts
+#EXTINF:-1 ,Eurosports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=826.ts
+#EXTINF:-1 ,Fox Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=750.ts
+#EXTINF:-1 ,Fox Sports 1 Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=810.ts
+#EXTINF:-1 ,Fox Sports 1 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=799.ts
+#EXTINF:-1 ,Fox Sports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=716.ts
+#EXTINF:-1 ,Fox Sports 2 Brasil
+http://pe.shortgod.com/pon/tv2.php?id=142.ts
+#EXTINF:-1 ,Fox Sports 2 MX
+http://pe.shortgod.com/pon/tv2.php?id=800.ts
+#EXTINF:-1 ,Fox Sports 3
+http://pe.shortgod.com/pon/tv2.php?id=717.ts
+#EXTINF:-1 ,Fox Sports 3 MX
+http://pe.shortgod.com/pon/tv2.php?id=801.ts
+#EXTINF:-1 ,Fox Sports Premium
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=802.ts
+#EXTINF:-1 ,Gol Peru
+http://pe.shortgod.com/pon/tv2.php?id=816.ts
+#EXTINF:-1 ,Movistar Deportes
+http://pe.shortgod.com/pon/tv2.php?id=817.ts
+#EXTINF:-1 ,NFL
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=749.ts
+#EXTINF:-1 ,Real Madrid
+http://pe.shortgod.com/pon/tv2.php?id=828.ts
+#EXTINF:-1 ,Teledeporte
+http://pe.shortgod.com/pon/tv2.php?id=824.ts
+#EXTINF:-1 ,Tigo Sports
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv2.php?id=814.ts
+#EXTINF:-1 ,Tigo Sports CR
+http://pe.shortgod.com/pon/tv2.php?id=819.ts
+#EXTINF:-1 ,TNT Sports
+http://pe.shortgod.com/pon/tv2.php?id=813.ts
+#EXTINF:-1 ,TNT Sports CH
+http://pe.shortgod.com/pon/tv2.php?id=820.ts
+#EXTINF:-1 ,TUDN
+http://pe.shortgod.com/pon/tv2.php?id=120.ts
+#EXTINF:-1 ,TyC Sports
+http://pe.shortgod.com/pon/tv2.php?id=812.ts
+#EXTINF:-1 ,Win Sports
+http://pe.shortgod.com/pon/tv2.php?id=790.ts
+#EXTINF:-1 ,Win Sports+
+http://pe.shortgod.com/pon/tv2.php?id=789.ts
+#EXTINF:-1,VEN : Venevision Plus ( Ve Plus )
+http://pe.shortgod.com/pon/tv2.php?id=577.ts
